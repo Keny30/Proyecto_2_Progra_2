@@ -2,6 +2,7 @@
 ## Description 📚
 -Kenia Hernandez
 -Daniel Diaz
+Josue Bonilla
 ## App features 🪐
  - Create
 - Read
